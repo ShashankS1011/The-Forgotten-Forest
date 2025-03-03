@@ -1,23 +1,55 @@
-# 🌲 The Forgotten Forest Adventure 🌌  
+# 🌲 The Forgotten Forest 🌲  
+**An Interactive Fantasy Adventure Game**  
 
-> **A mystical fantasy adventure where you uncover your lost past and reclaim your destiny.** ✨  
+![Game Banner](https://raw.githubusercontent.com/ShashankS1011/The-Forgotten-Forest/main/banner.png)  
+
+## ✨ Storyline  
+You awaken in the heart of the **Forgotten Forest**, a mystical realm filled with secrets, ancient ruins, and a long-lost prophecy.  
+A whisper calls out:  
+*"Heir of Eldoria… The time has come."*  
+
+You were once the **rightful heir to the Kingdom of Eldoria**, but your past is a shattered dream. The **Celestial Stone**, a source of great power, has been hidden deep within the forest. You must recover your memories, face mythical creatures, and decide your fate before the darkness consumes all.  
+
+⚔️ Will you embrace your destiny and restore Eldoria? Or will you be lost in the whispers of the forest forever?  
 
 ---
 
-## 📖 About the Game  
-Long ago, you were destined for greatness, but a dark force wiped away your past. Now, lost in the **Forgotten Forest**, you must uncover the truth, make critical choices, and shape your fate. Will you emerge as a hero or be swallowed by the shadows? 🌿🕯️  
+## 🎮 How to Play?  
+1. Click on choices to progress through the story.  
+2. Each decision you make **shapes your journey**.  
+3. Some choices lead to **glory**, others to **danger**—choose wisely!  
 
 ---
 
-## 🎮 How to Play  
-1️⃣ Click **Run** to start the game.  
-2️⃣ Follow the on-screen choices to progress.  
-3️⃣ Your decisions shape the story—choose wisely! ⚔️  
-4️⃣ Discover hidden secrets, meet mystical beings, and reclaim your destiny!  
+## ⬇️ Download & Play  
+🔗 **[Click Here to Download The Forgotten Forest (.exe)](https://github.com/ShashankS1011/The-Forgotten-Forest/releases/download/v1.0/game.exe)**  
 
---- 
+1. Download the `.exe` file.  
+2. Run **`game.exe`** (No installation needed).  
+3. Immerse yourself in the Forgotten Forest!  
 
-🎮 **Play using GitHub Codespaces:**  
-1. Click **"Code"** → **"Codespaces"** → **"Create codespace on main"**  
-2. Wait for the setup to complete.  
-3. Open the terminal and type:  
+---
+
+## 🖥️ System Requirements  
+✅ **Windows 10/11**  
+✅ **Minimum 2GB RAM**  
+✅ **No additional software required**  
+
+---
+
+## 🛠️ Built With  
+- **Python** (Tkinter for GUI)  
+- **Pillow (PIL)** for image handling  
+- **Random module** for decision-based outcomes  
+
+---
+
+## ❤️ Support & Feedback  
+Found a bug or have suggestions?  
+📧 Contact: **[Your Email or GitHub Issues](https://github.com/ShashankS1011/The-Forgotten-Forest/issues)**  
+
+🌟 **If you enjoyed the game, consider giving a ⭐ to the repo!**  
+
+---
+
+🚀 **Embark on the adventure now!** Will you **unravel the past** or **be lost forever** in the Forgotten Forest? 🌲✨  
