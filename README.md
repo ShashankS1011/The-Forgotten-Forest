@@ -1,8 +1,6 @@
 # 🌲 The Forgotten Forest 🌲  
 **An Interactive Fantasy Adventure Game**  
 
-![Game Banner](https://raw.githubusercontent.com/ShashankS1011/The-Forgotten-Forest/main/banner.png)  
-
 ## ✨ Storyline  
 You awaken in the heart of the **Forgotten Forest**, a mystical realm filled with secrets, ancient ruins, and a long-lost prophecy.  
 A whisper calls out:  
@@ -30,23 +28,12 @@ You were once the **rightful heir to the Kingdom of Eldoria**, but your past is 
 
 ---
 
-## 🖥️ System Requirements  
-✅ **Windows 10/11**  
-✅ **Minimum 2GB RAM**  
-✅ **No additional software required**  
-
----
-
 ## 🛠️ Built With  
 - **Python** (Tkinter for GUI)  
 - **Pillow (PIL)** for image handling  
 - **Random module** for decision-based outcomes  
 
 ---
-
-## ❤️ Support & Feedback  
-Found a bug or have suggestions?  
-📧 Contact: **[Your Email or GitHub Issues](https://github.com/ShashankS1011/The-Forgotten-Forest/issues)**  
 
 🌟 **If you enjoyed the game, consider giving a ⭐ to the repo!**  
 
